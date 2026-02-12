@@ -7,7 +7,7 @@ A simple calculator that can add, subtract, multiply, & divide.
 ## Team Members:
 
 -   Name 1
--   Name 2
+-   Warren
 -   Prajita
 
 ## Member Contributions:
@@ -16,9 +16,9 @@ A simple calculator that can add, subtract, multiply, & divide.
 
 -   Worked on [specific elements] of the webpage.
 
-### Name 2:
+### Warren:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Worked on the subtraction and division functions on js.
 
 ### Prajita:
 
