@@ -8,7 +8,7 @@ A simple calculator that can add, subtract, multiply, & divide.
 
 -   Name 1
 -   Name 2
--   Name 3
+-   Prajita
 
 ## Member Contributions:
 
