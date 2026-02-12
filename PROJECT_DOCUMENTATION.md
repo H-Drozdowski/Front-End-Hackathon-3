@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+A simple calculator that can add, subtract, multiply, & divide.
 
 ## Team Members:
 
