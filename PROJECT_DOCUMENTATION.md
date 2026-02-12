@@ -20,6 +20,6 @@ A simple calculator that can add, subtract, multiply, & divide.
 
 -   Was responsible for [specific tasks], focusing on [specific HTML elements].
 
-### Name 3:
+### Prajita:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Worked on the addition and mutiplication functions on js.
