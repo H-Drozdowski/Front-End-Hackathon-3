@@ -1,0 +1,42 @@
+#result-container{
+    margin-top: 1rem;
+    display: inline-flex;
+    min-width: 300px;
+    padding: 0.25rem;
+    border: solid 2px black;
+}
+
+#result-container button{
+    margin-right: 1rem;
+}
+
+#calculator-container{
+    background-color: #b8dbd9;
+    padding: 1rem;
+    border: solid 2px black;
+}
+
+h1{
+    background-color: #2bce97;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    border: solid 2px black;
+}
+
+button, input{
+    background-color: #f4f4f9;
+}
+
+button:hover{
+    background-color: #2bce97;
+}
+
+body{
+    background-color: #586F7C;
+}
+
+.par{
+    font-weight: 1000;
+    text-decoration: underline;
+}

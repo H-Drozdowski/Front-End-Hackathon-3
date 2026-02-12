@@ -4,34 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Basic Calculator</title>
+    <link rel = "stylesheet" href = "styles.css"/>
 </head>
 <body>
+    <header>
+        <h1>Basic Calculator</h1>
+    </header>
+
+
     <div id = "calculator-container">
 
         <div>
             <div id = "number1-container">
-                <p>Number 1</p>
-                <input type="text" placeholder = "Enter the first number.">
+                <p class="par">Number 1</p>
+                <input type="text" placeholder = "Enter the first number." id = "input-1">
             </div>
 
             <div id = "number2-container">
-                <p>Number 2</p>
-                <input type="text" placeholder = "Enter the second number.">
+                <p class="par">Number 2</p>
+                <input type="text" placeholder = "Enter the second number." id= "input-2">
+            </div>
+        </div>
+
+        <div>
+            <div id = "calculator-button-container">
+                <p class="par">Select calculation type :</p>
+                <button id = "addition-button">Addition +</button> <!-- Prajita -->
+                <button id = "subtraction-button">Subtraction -</button> <!-- Warren -->
+                <button id = "multiplication-button">Multiplication *</button> <!-- Prajita -->
+                <button id = "division-button">Division /</button> <!-- Warren -->
             </div>
 
             <div id = "result-container">
-                <p>Result</p>
+                <button id = "calculate-button">Calculate</button>
+                <p class = "par">Result: <span id="result-value">0</span></p>
             </div>
         </div>
-
-        <div id = "calculator-button-container">
-            <button id = "addition-button">Addition -</button> <!-- Prajita -->
-            <button id = "subtraction-button">Subtraction +</button> <!-- Warren -->
-            <button id = "multiplication-button">Multiplication *</button> <!-- Prajita -->
-            <button id = "division-button">Division /</button> <!-- Warren -->
-        </div>
-        
-        <button id = "calculate-button">Calculate</button>
     </div>
+
+    <script src = "script.js"></script>
 </body>
 </html>
